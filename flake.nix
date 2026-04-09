@@ -1,11 +1,11 @@
 /*
-  ---------------------------------------------------------------------------
-  My personal NixOS multi-host & multi-channel configuration flake ¯\_(ツ)_/¯
+  ------------------------------------------------------------------------------
+  My personal NixOS/Nix multi-host & multi-channel configuration flake ¯\_(ツ)_/¯
   https://github.com/cig0/monster-flake
   Kickoff commit on May 29th 2024, 4:20 AM.
 
   ASCII art credits: https://www.asciiart.eu/cartoons/beavis-and-butt-head
-  ---------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
                                                                            _------__--___.__.
                                                                          /            `  `    \
