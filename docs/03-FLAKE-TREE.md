@@ -12,14 +12,6 @@ This reference captures the current repository layout at the moment of taking th
 ├── .autoenv.zsh                                          # autoenv entry hook for this repo
 ├── .autoenv_leave.zsh                                    # autoenv exit hook to clean up env vars
 ├── .gitignore                                            # ignored files (notes about secrets templates)
-│   ├── plans                                             # AI-authored plans awaiting execution
-│   │   └── secrets-docs-deaa6b.md                        # Plan for relocating/documenting secrets
-│   ├── rules                                             # Custom Windsurf rules (placeholder)
-│   │   └── .gitkeep                                      # Keeps empty folder tracked.
-│   ├── skills                                            # Custom skill definitions (placeholder)
-│   │   └── .gitkeep                                      # Keeps empty folder tracked.
-│   └── workflows                                         # User-defined workflows/slash commands
-│       └── compu.md                                      # /compu workflow (commit + push helper)
 ├── LICENSE                                               # AGPLv3+ license text
 ├── README.md                                             # High-level introduction + quick start + docs links
 ├── assets                                                # Binary/config assets referenced in docs/modules
