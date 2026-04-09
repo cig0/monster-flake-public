@@ -17,7 +17,7 @@ Whether you’re cruising or tearing up the road, this rig gives you:
 
 - **Single source of truth** for hosts, packages, and options
 - **Auto-discovered modules** courtesy of Modulon
-- **Shared abstractions** that run on NixOS, GNU/Linux, and macOS (Home Manager)
+- **Shared abstractions** that run on NixOS, GNU/Linux & macOS (via Home Manager)
 - **Declarative, idempotent Homebrew management** that just works with `nh home switch .`
 - **Channel combinations** for any appetite:
   - **Stable release with stable packages** — a reliable workhorse
