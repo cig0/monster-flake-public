@@ -1,7 +1,7 @@
 # @MODULON_SKIP
 /*
   This file is extracted from packages.nix to improve modularity and maintainability.
-  Try-before-you-buy module (!).
+  Try-before-you-buy module (!)
 */
 {
   hostKind,
