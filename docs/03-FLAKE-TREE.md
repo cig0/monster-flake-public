@@ -1,5 +1,5 @@
 # Flake Tree Map
-This reference captures the current repository layout (`tree -a -I '.git|result|result-*|.direnv|.pre-commit-config.yaml|.devenv|.github'`) with brief notes so newcomers can quickly identify what each file or module does. Comments focus on intent (NixOS vs Home Manager vs shared) so you can jump straight to the right module.
+This reference captures the current repository layout at the moment of taking the snapshot (`tree -a -I '.git|result|result-*|.direnv|.pre-commit-config.yaml|.devenv|.github'`) with brief notes so newcomers can quickly identify what each file or module does. Comments focus on intent (NixOS vs Home Manager vs shared) so you can jump straight to the right module.
 
 <br>
 
