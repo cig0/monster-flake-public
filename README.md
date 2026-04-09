@@ -13,7 +13,6 @@
 
 Rev your engines with **Monster Flake**—a high-octane, high-clearance 4x4 for your Nix setup!
 
-<br>
 Whether you’re cruising or tearing up the road, this rig gives you:
 
 - **Single source of truth** for hosts, packages, and options
@@ -38,7 +37,8 @@ It's battle-tested daily, but still evolving—expect the occasional tire burnin
 
 ### TL;DR - Who reads manuals anyway ¯\\_(ツ)_/¯
 
-Need the elevator pitch? Skim the [Flake Tree](docs/03-FLAKE-TREE.md) for a less than five-minute tour of every folder and module, then dive deeper wherever you need.<br>
+Need the elevator pitch? Skim the [Flake Tree](docs/03-FLAKE-TREE.md) for a less than five-minute tour of every folder and module, then dive deeper wherever you need.
+
 Also, check out the [config/shortcuts](config/shortcuts) directory—adds a touch for maintainability that solves the "where the hell is that file?" problem common in large flakes.
 
 ## Learn more
