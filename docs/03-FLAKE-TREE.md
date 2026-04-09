@@ -339,4 +339,4 @@ This reference captures the current repository layout at the moment of taking th
     └── hosts                                             # Host-specific secrets
         ├── tuxedo                                        # Secrets for tuxedo host
         └── desktop                                       # Secrets for desktop host
-            └── secrets.json                              # Private secrets for desktop (gitignored locally)
+            └── secrets.json                              # Private secrets for desktop
