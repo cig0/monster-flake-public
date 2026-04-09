@@ -6,7 +6,7 @@
 }:
 {
   /*
-    ══════  NixOS only  ══════
+    ══════  NixOS-only notice  ══════
     channel: Nixpkgs channel to use (stable/unstable). Home Manager, if enabled, follows the
     same channel. This allows for a tight integration between NixOS and HM avoidingi potential
     mismatch issues between NixOS and Home Manager packages and configuration versions.
