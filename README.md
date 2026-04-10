@@ -76,7 +76,7 @@ Need details on any step? The docs break down each subsystem so beginners and ve
 ### Secrets (NixOS only)
 
 - Secrets live in `secrets/` (host JSON, shared JSON, Wi-Fi PSKs, optional Tailscale auth keys)
-- Populate the skeleton files manually, via `sops`/`agenix`, or by piping environment variables before `nh os switch`
+- Populate the skeleton files manually, via `sops`/`agenix`, or by piping environment variables before the build
 - See [11-NIXOS-HOST-MODULES-SECRETS](docs/11-NIXOS-HOST-MODULES-SECRETS.md) for structure, validation rules, setup instructions, and expanding it for your needs
 - See [14-LIMITATIONS](docs/14-LIMITATIONS.md) for more information about secrets encryption
 
