@@ -65,7 +65,7 @@ The README stays light; dive into `docs/` for specifics:
 
 ## Quick start
 
-1. **Clone** – `git clone https://github.com/cig0/monster-flake.git && cd monster-flake`
+1. **Clone**
 2. **Add your host** – edit `flake.nix` and copy an existing entry (see [07-ADDING-HOSTS](docs/07-ADDING-HOSTS.md))
 3. **Customize programs & packages** – flip toggles under `myHmStandalone` / `myNixos.myOptions`
 4. **Switch** – `nix run home-manager -- switch --flake .#<username>@<hostname>`<br>
