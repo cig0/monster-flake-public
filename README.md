@@ -66,7 +66,7 @@ The README stays light; dive into `docs/` for specifics:
 ## Quick start
 
 1. **Clone**
-2. **Add your host** – edit `flake.nix` and copy an existing entry (see [07-ADDING-HOSTS](docs/07-ADDING-HOSTS.md))
+2. **Add your host** – edit `flake.nix / flake.nix.d/hosts.nix` (see [07-ADDING-HOSTS](docs/07-ADDING-HOSTS.md))
 3. **Customize programs & packages** – flip toggles under `myHmStandalone` / `myNixos.myOptions`
 4. **Switch** – `nix run home-manager -- switch --flake .#<username>@<hostname>`<br>
 *Note:* After a successful build, you can start using [nh](/config/home-manager/modules/applications/zsh/aliases/nix.nix) right away (`nhhs` and `nhhsd` will become your best friends)
